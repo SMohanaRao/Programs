@@ -27,4 +27,15 @@
     b. Average of given numbers  
     c. Maximum among given numbers  
     d. Minimum among given numbers  
-    e. Exit   
+    e. Exit
+
+6. WAP to print below pattern
+```   
+    *  
+   ***  
+  *****  
+ *******  
+*********
+```
+
+
